@@ -1,0 +1,11 @@
+{
+  "train_fraction": 0.7844129554655871,
+  "test_fraction": 0.21558704453441296,
+  "split_seed": 20260902,
+  "strategy": "frozen_once_random_fraction",
+  "manuscript_center_a_n": 988,
+  "manuscript_development_n": 775,
+  "manuscript_evaluation_n": 213,
+  "manuscript_development_sclc_n": 151,
+  "manuscript_evaluation_sclc_n": 42
+}

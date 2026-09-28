@@ -1,0 +1,61 @@
+{
+  "artifact": "weighted_voting_model.joblib",
+  "sha256": "f6b7c17fd682a37a2a927bd9d8fed375db0fa36e81a3e045e33ec7b059673bf5",
+  "size_bytes": 2844398,
+  "joblib_reload_max_abs_difference": 0.0,
+  "member_n": 13,
+  "member_order": [
+    "logistic_regression",
+    "gam",
+    "knn",
+    "gaussian_nb",
+    "decision_tree",
+    "random_forest",
+    "extra_trees",
+    "gbdt",
+    "xgboost",
+    "lightgbm",
+    "adaboost",
+    "rotation_forest",
+    "mlp"
+  ],
+  "weights": {
+    "logistic_regression": 0.0823844036725171,
+    "gam": 0.08032693868490469,
+    "knn": 0.0692461656468067,
+    "gaussian_nb": 0.07893253236618958,
+    "decision_tree": 0.06692846598264333,
+    "random_forest": 0.07653128120980282,
+    "extra_trees": 0.07972166494686049,
+    "gbdt": 0.07598717141630809,
+    "xgboost": 0.07756434820619712,
+    "lightgbm": 0.0760578143168823,
+    "adaboost": 0.07914025312014424,
+    "rotation_forest": 0.0789360632456701,
+    "mlp": 0.0782428971850734
+  },
+  "selected_direct": [
+    "WBC",
+    "PLT",
+    "LDH",
+    "PCT",
+    "EO#",
+    "EO%",
+    "ALB",
+    "TP",
+    "GLB",
+    "TC",
+    "LDL-C",
+    "MCH",
+    "MCHC"
+  ],
+  "fixed_composites": [
+    "SIRI",
+    "LMR",
+    "GAR",
+    "PNI",
+    "HALP"
+  ],
+  "stage4_preprocessor_fingerprint": "333fb727e05eb64c990d0bc64024947d94f902acf8070d0f6156b16cb74fb3ba",
+  "runtime_note": "Loading requires the archived project stage4_pipeline.py/model_factory.py dependencies."
+}

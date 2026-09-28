@@ -1,0 +1,27 @@
+{
+  "status": "confirmed",
+  "definitions": {
+    "PCT": "plateletcrit",
+    "GAR": "GLU/ALB"
+  },
+  "units": {
+    "WBC": "10⁹/L",
+    "PLT": "10⁹/L",
+    "LDH": "U/L",
+    "PCT": "%",
+    "EO#": "10⁹/L",
+    "EO%": "%",
+    "ALB": "g/L",
+    "TP": "g/L",
+    "GLB": "g/L",
+    "TC": "mmol/L",
+    "LDL-C": "mmol/L",
+    "MCH": "pg",
+    "MCHC": "g/L",
+    "SIRI": "10⁹/L",
+    "LMR": "index",
+    "GAR": "index",
+    "PNI": "index",
+    "HALP": "index"
+  }
+}
